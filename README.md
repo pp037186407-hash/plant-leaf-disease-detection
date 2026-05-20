@@ -12,6 +12,6 @@ This project focuses on identifying various plant leaf diseases early using imag
 * *Frameworks/Libraries:* TensorFlow, Keras, OpenCV, NumPy, Pandas, Matplotlib
 
 ## Dataset & Model
-* *Dataset Used:* PlantVillage Dataset (or specify your dataset)
+* *Dataset Used:* PlantVillage Dataset 
 * *Model Architecture:* CNN (Convolutional Neural Network)
-* *Training Accuracy:* [Insert your accuracy e.g., 92%]
+* *Training Accuracy:* [Insert your accuracy e.g., 100%]
